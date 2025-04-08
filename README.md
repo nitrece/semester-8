@@ -14,3 +14,4 @@ Courses:
 <br>
 
 ![](Timetable.jpg)
+![](https://ga-beacon.deno.dev/G-ERJXRWVLBT:BGFjXiiDQ5-gqJoAeoZGqg/github.com/nitrece/semester-8)
